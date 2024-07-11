@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sangeeth</h1>
+<h1 align="center">Hi 👋, I'm Janaka Sangeeth Hettiarachchi</h1>
 <h3 align="center">Coding & Building Dreams into Reality from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janak-dev2002&label=Profile%20views&color=0e75b6&style=flat" alt="janak-dev2002" /> </p>
