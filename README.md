@@ -1,109 +1,50 @@
-<h1 align="center">Hi 👋, I'm Janaka Sangeeth Hettiarachchi</h1>
-
-<h3 align="center">
-Full-Stack Software Engineer • System Integrator • Future-Focused Technopreneur 🇱🇰
-</h3>
+<h1 align="center">
+  Hi, I'm Janaka Sangeeth 👋
+</h1>
 
 <p align="center">
-I design and build scalable software systems, integrate hardware with software,
-and engineer real-world solutions with long-term impact.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=7F3CE0&center=true&vCenter=true&width=700&lines=System-Oriented+Software+Engineer;Security+%26+IoT+System+Integrator;Building+Engineering+Products+for+the+Future;From+Sri+Lanka+to+Global+Scale" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janak-dev2002&label=Profile%20views&color=0e75b6&style=flat" alt="janak-dev2002" />
-</p>
-
----
-
-## 👨‍💻 Professional Background
-
-- 🇱🇰 Sri Lankan **Full-Stack Software Engineer** with strong system-level thinking  
-- 🎓 Undergraduate at **Java Institute for Advanced Technology (JIAT), Gampaha**
-- 🏗️ Currently working at **KBK Engineering**
-- 🔗 Hands-on experience in **Hikvision API, SDK & device protocol integration**
-- 🧠 Focused on **scalable architectures, security systems, IoT & R&D-driven engineering**
-- 🚀 Long-term vision: Build **product-based engineering solutions** from Sri Lanka for global impact
-
----
-
-## 🧩 What I Work On
-
-- Backend systems using **Java (SE/EE) & Spring Boot**
-- Frontend applications with **React.js & React Native**
-- **Microservice architectures** and API-driven systems
-- **Real-time communication** (WebSockets, event-based systems)
-- **Security & surveillance system integrations**
-- Linux-based deployments, automation & system monitoring
-- Embedded & IoT projects using **Arduino & ESP32 (C++)**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-Java · JavaScript · PHP · C# · SQL · C++ (Embedded)
-
-### Frameworks & Libraries
-Spring Boot · React.js · React Native · Bootstrap
-
-### Databases
-MySQL · PostgreSQL (learning)
-
-### DevOps & Systems
-Docker · Linux (CentOS / Debian) · Cron Jobs · Logging & Monitoring
-
-### Cloud
-AWS · Google Cloud
-
-### APIs & Integration
-REST APIs · Postman · Hikvision SDK & Protocols
-
-### Hardware & IoT
-Arduino · ESP32
-
-### Tools
-Git · GitHub · IntelliJ · NetBeans · MySQL Workbench · Figma
-
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janak-dev2002&layout=compact&show_icons=true" />
+  <strong>Full-Stack Engineer • System Integrator • R&D Mindset 🇱🇰</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janak-dev2002" />
+  <img src="https://komarev.com/ghpvc/?username=janak-dev2002&label=PROFILE+VIEWS&color=7F3CE0&style=for-the-badge" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ ENGINEERING IDENTITY
 
-<p align="left">
-<a href="https://fb.com/janakfuturist" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-</p>
+I am a **system-oriented software engineer** focused on building  
+**secure, scalable, real-time engineering systems**.
 
-📫 **Email:** sangeeth.jdev@gmail.com
+I work at the intersection of:
+- software architecture
+- security & surveillance systems
+- IoT & embedded devices
+- real-world operational constraints
+
+I don’t build demos.  
+I build **systems meant to operate under pressure**.
+
+- 🏗️ Engineer @ **KBK Engineering**
+- 🎓 Undergraduate @ **Java Institute for Advanced Technology (JIAT)**
+- 🔐 Specialized in **Hikvision SDK, APIs & device-level integration**
+- 🧠 Architecture-first mindset (not framework-first)
+- 🚀 Vision: **Product-based engineering & national-scale systems**
 
 ---
 
-<p align="center">
-<em>
-Engineering is not just about writing code —  
-it’s about designing systems that survive the future.
-</em>
-</p>
+## 🛡️ CORE DOMAINS (ELITE FOCUS)
+
+```text
+▣ Distributed Backend Systems
+▣ Real-Time Communication & Event Processing
+▣ Security & Surveillance Platforms
+▣ Hardware ↔ Software Integration
+▣ IoT, Embedded & Edge Computing
+▣ Linux-Based Infrastructure
+▣ R&D-Oriented Engineering
