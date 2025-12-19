@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Janaka Sangeeth Hettiarachchi</h1>
+
 <h3 align="center">
-Full-Stack Software Engineer | System Integrator | Future-Focused Technopreneur 🇱🇰
+Full-Stack Software Engineer • System Integrator • Future-Focused Technopreneur 🇱🇰
 </h3>
 
 <p align="center">
-Building scalable systems, integrating hardware with software, and turning real-world problems into engineered solutions.
+I design and build scalable software systems, integrate hardware with software,
+and engineer real-world solutions with long-term impact.
 </p>
 
 <p align="center">
@@ -13,51 +15,58 @@ Building scalable systems, integrating hardware with software, and turning real-
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 Professional Background
 
-- 🔭 Currently working at **KBK Engineering**
-- 🌱 Learning & building with **Full-Stack Software Engineering**, **Microservices**, and **Hikvision API Integration**
-- 🎓 Undergraduate at **Java Institute for Advanced Technology (JIAT)**
-- 🧠 Strong interest in **System Architecture, IoT, Security Systems & R&D**
-- 🚀 Long-term goal: **Build product-based engineering solutions from Sri Lanka for global impact**
-- 🤝 Open to collaboration on **innovative, system-level, and research-oriented projects**
+- 🇱🇰 Sri Lankan **Full-Stack Software Engineer** with strong system-level thinking  
+- 🎓 Undergraduate at **Java Institute for Advanced Technology (JIAT), Gampaha**
+- 🏗️ Currently working at **KBK Engineering**
+- 🔗 Hands-on experience in **Hikvision API, SDK & device protocol integration**
+- 🧠 Focused on **scalable architectures, security systems, IoT & R&D-driven engineering**
+- 🚀 Long-term vision: Build **product-based engineering solutions** from Sri Lanka for global impact
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🧩 What I Work On
 
-**Languages**
-<br/>
-Java · JavaScript · PHP · C# · SQL
+- Backend systems using **Java (SE/EE) & Spring Boot**
+- Frontend applications with **React.js & React Native**
+- **Microservice architectures** and API-driven systems
+- **Real-time communication** (WebSockets, event-based systems)
+- **Security & surveillance system integrations**
+- Linux-based deployments, automation & system monitoring
+- Embedded & IoT projects using **Arduino & ESP32 (C++)**
 
-**Frameworks & Libraries**
-<br/>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Java · JavaScript · PHP · C# · SQL · C++ (Embedded)
+
+### Frameworks & Libraries
 Spring Boot · React.js · React Native · Bootstrap
 
-**Databases**
-<br/>
+### Databases
 MySQL · PostgreSQL (learning)
 
-**DevOps & Cloud**
-<br/>
-Docker · Linux · AWS · Google Cloud
+### DevOps & Systems
+Docker · Linux (CentOS / Debian) · Cron Jobs · Logging & Monitoring
 
-**APIs & Integration**
-<br/>
+### Cloud
+AWS · Google Cloud
+
+### APIs & Integration
 REST APIs · Postman · Hikvision SDK & Protocols
 
-**Hardware & Embedded**
-<br/>
-Arduino · ESP32 (C++ focus)
+### Hardware & IoT
+Arduino · ESP32
 
-**Design & Productivity**
-<br/>
-Figma · Git · GitHub
+### Tools
+Git · GitHub · IntelliJ · NetBeans · MySQL Workbench · Figma
 
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
@@ -68,10 +77,10 @@ Figma · Git · GitHub
 
 ---
 
-### 📊 GitHub Insights
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janak-dev2002&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janak-dev2002&layout=compact&show_icons=true" />
 </p>
 
 <p align="center">
@@ -80,7 +89,7 @@ Figma · Git · GitHub
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://fb.com/janakfuturist" target="_blank">
@@ -93,5 +102,8 @@ Figma · Git · GitHub
 ---
 
 <p align="center">
-<em>“Engineering is not just about code — it’s about responsibility, scalability, and real-world impact.”</em>
+<em>
+Engineering is not just about writing code —  
+it’s about designing systems that survive the future.
+</em>
 </p>
