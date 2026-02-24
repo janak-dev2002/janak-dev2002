@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sangeeth Hettiarachchi
+# Sangeeth (J-Dev) Hettiarachchi
 
 **Backend & IoT Systems Engineer · Startup Co-Founder · 🇱🇰 Sri Lanka**
 
