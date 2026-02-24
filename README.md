@@ -49,16 +49,10 @@ I'm a backend & IoT systems engineer co-founding **KBK Engineering** — passion
 
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" style="padding: 0; border: none;">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janak-dev2002&theme=tokyonight"/>
-    </td>
-    <td width="50%" style="padding: 0; border: none;">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janak-dev2002&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janak-dev2002&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janak-dev2002&theme=tokyonight"/>
+</p>
 
 <br/>
 
