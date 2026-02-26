@@ -2,7 +2,7 @@
 
 # Sangeeth (J-Dev) Hettiarachchi
 
-**Backend & IoT Systems Engineer · Startup Co-Founder · 🇱🇰 Sri Lanka**
+**Backend & IoT Systems Engineer · 🇱🇰 Sri Lanka**
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-I'm a backend & IoT systems engineer co-founding **KBK Engineering** — passionate about connecting physical devices to the cloud and making that cloud smarter. There's something thrilling about distance — typing a command here and watching something react on the other side of the world. Remote control, remote monitoring, remote intelligence. And when that hardware starts talking to intelligence — that's when it gets really interesting. 🛠️
+I'm a backend & IoT systems engineer @ **KBK Engineering** — passionate about connecting physical devices to the cloud and making that cloud smarter. There's something thrilling about distance — typing a command here and watching something react on the other side of the world. Remote control, remote monitoring, remote intelligence. And when that hardware starts talking to intelligence — that's when it gets really interesting. 🛠️
 
 <br/>
 
