@@ -2,7 +2,7 @@
 
 # Sangeeth (J-Dev) Hettiarachchi
 
-** IoT Systems & Backend Engineer · 🇱🇰 Sri Lanka**
+** IoT Systems & Backend Developer · 🇱🇰 Sri Lanka**
 
 <br/>
 
