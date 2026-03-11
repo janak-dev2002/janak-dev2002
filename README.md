@@ -16,7 +16,7 @@
 
 <br/>
 
-I'm a IoT Systems & Backend Engineer @ **KBK Engineering** — passionate about connecting physical devices to the cloud and making that cloud smarter. There's something thrilling about distance — typing a command here and watching something react on the other side of the world. Remote control, remote monitoring, remote intelligence. And when that hardware starts talking to intelligence — that's when it gets really interesting. 🛠️
+I'm a IoT Systems & Backend Developer — passionate about connecting physical devices to the cloud and making that cloud smarter. There's something thrilling about distance — typing a command here and watching something react on the other side of the world. Remote control, remote monitoring, remote intelligence. And when that hardware starts talking to intelligence — that's when it gets really interesting. 🛠️
 
 <br/>
 
